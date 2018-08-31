@@ -1,0 +1,260 @@
+1
+00:00:01,500 --> 00:00:12,433
+<font color=#FFFF00><b>HALSEY & LAUREN JAUREGUI - STRANGERS</b></font>
+
+2
+00:00:20,466 --> 00:00:24,300
+<font color=#66969c>[Halsey]
+Ela não me beija mais na boca
+</font>
+
+3
+00:00:25,100 --> 00:00:29,333
+<font color=#66969c>[Halsey]
+Porque é mais íntimo do que ela acha que devíamos ser</font>
+
+4
+00:00:29,366 --> 00:00:33,166
+<font color=#66969c>[Halsey]
+Ela não me olha mais nos olhos</font>
+
+5
+00:00:33,566 --> 00:00:38,433
+<font color=#66969c>[Halsey]
+Com muito medo do que ela vai ver, alguém me abraçando</font>
+
+6
+00:00:38,466 --> 00:00:40,600
+<font color=#66969c>[Halsey]
+Quando eu acordo sozinha</font>
+
+7
+00:00:40,633 --> 00:00:42,633
+<font color=#66969c>[Halsey]
+E estou pensando em sua pele</font>
+
+8
+00:00:42,666 --> 00:00:47,033
+<font color=#66969c>[Halsey]
+Eu lembro, eu lembro do que você me disse</font>
+
+9
+00:00:51,333 --> 00:00:54,633
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+Disse que não estamos namorando
+
+10
+00:00:56,266 --> 00:00:59,400
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+Somos apenas estranhas
+
+11
+00:01:00,166 --> 00:01:03,233
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+Com a mesma maldita vontade
+
+12
+00:01:03,266 --> 00:01:08,233
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+De ser tocada, de ser amada, de sentir qualquer coisa
+
+13
+00:01:09,333 --> 00:01:12,300
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+Disse que não estamos namorando
+
+14
+00:01:13,566 --> 00:01:16,566
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+Somos apenas estranhas
+
+15
+00:01:17,500 --> 00:01:20,633
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+Com a mesma maldita vontade
+
+16
+00:01:20,666 --> 00:01:25,500
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+De ser tocada, de ser amada, de sentir qualquer coisa
+
+17
+00:01:26,133 --> 00:01:30,266
+<font color=#8c3b59>[Lauren Jauregui]
+Ela não me liga mais pelo telefone</font>
+
+18
+00:01:30,300 --> 00:01:34,666
+<font color=#8c3b59>[Lauren Jauregui]
+Ela nunca ouve, diz que é inocente</font>
+
+19
+00:01:34,700 --> 00:01:39,133
+<font color=#8c3b59>[Lauren Jauregui]
+Ela não me deixa mais ter o controle</font>
+
+20
+00:01:39,166 --> 00:01:44,233
+<font color=#8c3b59>[Lauren Jauregui]
+Devo ter passado dos limites, devo ter enlouquecido</font>
+
+21
+00:01:44,266 --> 00:01:46,200
+<font color=#66969c>[Halsey]
+Quando eu acordo sozinha</font>
+
+22
+00:01:46,233 --> 00:01:48,300
+<font color=#66969c>[Halsey]
+E estou pensando em sua pele</font>
+
+23
+00:01:48,333 --> 00:01:52,166
+<font color=#66969c>[Halsey]
+Eu lembro, eu lembro do que você me disse</font>
+
+24
+00:01:52,366 --> 00:01:56,066
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+Disse que não estamos namorando
+
+25
+00:01:57,333 --> 00:02:00,300
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+Somos apenas estranhas
+
+
+26
+00:02:01,233 --> 00:02:04,266
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+Com a mesma maldita vontade
+
+27
+00:02:04,300 --> 00:02:09,300
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+De ser tocada, de ser amada, de sentir qualquer coisa
+
+28
+00:02:10,366 --> 00:02:13,366
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+Não somos amantes
+
+29
+00:02:14,700 --> 00:02:17,666
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+Somos apenas estranhas
+
+30
+00:02:18,533 --> 00:02:21,700
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>] 
+Com a mesma maldita vontade
+
+31
+00:02:21,733 --> 00:02:26,533
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+De ser tocada, de ser amada, de sentir qualquer coisa
+
+32
+00:02:27,300 --> 00:02:31,166
+<font color=#66969c>[Halsey]
+Sinto falta das manhãs com você deitada na minha cama</font>
+
+33
+00:02:31,533 --> 00:02:35,433
+<font color=#8c3b59>[Lauren Jauregui]
+Sinto falta das memórias passando em minha cabeça</font>
+
+34
+00:02:36,000 --> 00:02:40,266
+<font color=#66969c>[Halsey]
+Sinto falta do pensamento de eu e você para sempre</font>
+
+35
+00:02:40,300 --> 00:02:45,300
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+Mas tudo o que você sente falta é do meu corpo
+
+36
+00:02:45,333 --> 00:02:49,500
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+Disse que não estamos namorando <font color=#8c3b59>(não estamos namorando)</font>
+
+37
+00:02:44,500 --> 00:02:46,500
+<font color=#8c3b59>(oh~)</font>
+
+38
+00:02:49,533 --> 00:02:52,500
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+Porque somos apenas estranhas
+
+
+39
+00:02:53,466 --> 00:02:56,600
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+Com a mesma maldita vontade
+
+40
+00:02:56,633 --> 00:03:01,500
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+De ser tocada, de ser amada, de sentir qualquer coisa
+
+41
+00:03:02,633 --> 00:03:05,600
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+Não somos amantes
+
+42
+00:03:07,266 --> 00:03:10,200
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+Somos apenas estranhas
+
+43
+00:03:11,000 --> 00:03:14,300
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+Com a mesma maldita vontade
+
+44
+00:03:14,333 --> 00:03:16,400
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+De ser tocada, de ser amada
+
+45
+00:03:16,433 --> 00:03:20,333
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+De sentir qualquer coisa <font color=#8c3b59>(qualquer coisa)</font>
+
+46
+00:03:20,733 --> 00:03:23,366
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+De sentir qualquer coisa
+
+47
+00:03:22,066 --> 00:03:25,466
+ <font color=#66969c>(você perdeu, você perdeu, você perdeu)</font>
+
+48
+00:03:25,300 --> 00:03:27,600
+[<font color=#66969c>Halsey</font>/<font color=#8c3b59>Lauren Jauregui</font>]
+De sentir qualquer coisa
+
+49
+00:03:28,533 --> 00:03:30,500
+<font color=#66969c>[Halsey]
+(Você perdeu)</font>
+
+50
+00:03:30,533 --> 00:03:32,566
+<font color=#66969c>[Halsey]
+(Você perdeu)</font>
+
+51
+00:03:32,600 --> 00:03:35,233
+<font color=#66969c>[Halsey]
+(Você perdeu)</font>
+
+52
+00:03:35,266 --> 00:03:37,500
+<font color=#66969c>[Halsey]
+(Você perdeu)</font>
+
